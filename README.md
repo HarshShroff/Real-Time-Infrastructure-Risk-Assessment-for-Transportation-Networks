@@ -135,7 +135,7 @@ This project was created by **Harsh Shroff** _[LinkedIn](https://www.linkedin.co
 ```plaintext
 MIT License
 
-Copyright (c) [Year] [Your Name]
+Copyright (c) [2025] [Harsh Shroff]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
